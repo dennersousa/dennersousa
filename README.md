@@ -11,7 +11,9 @@ Olá! 👋 Eu sou Marcus Carvalho, um entusiasta de tecnologia de 27 anos apaixo
 - 👨‍🎓 Bacharelado Interdisciplinar em Ciência e Tecnologia iniciado na Universidade Federal do Rio Grande do Norte em 2018. Tranquei o curso em 2020 devido a pandemia.
 
 - 🌐 Sou produtor de conteúdo didático no meu site pessoal, os conteúdos são baseados em meus resumos de estudo.
-- <a href=“http://www.marcuscarvalho.tech/“>MEU SITE!</a>
+    <div> 
+    <a href="https://www.marcuscarvalho.tech" target="_blank"><img src="https://img.shields.io/badge/Site Pessoal-000000?style=for-the-badge&logo=protondrive&logoColor=white"></a>
+    </div>
 
 ## Habilidades 🚀
 
