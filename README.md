@@ -74,7 +74,7 @@ public class MarcusCarvalho {
 ## GitHub Stats 📊
 ![Marcus Carvalho Card Stats](https://github-readme-stats.vercel.app/api?username=marcuscarvalhodev&show_icons=true&icon_color=fff&theme=dark&hide_title=True)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcuscarvalhodev&show_icons=true&icon_color=fff&theme=dark)](https://github.com/marcuscarvalho.dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcuscarvalhodev&show_icons=true&icon_color=fff&theme=dark)](https://github.com/marcuscarvalhodev/github-readme-stats)
 
 ## Projetos 🛠️
 
