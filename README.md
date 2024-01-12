@@ -4,9 +4,9 @@ Olá! 👋 Eu sou Marcus Carvalho, um entusiasta de tecnologia de 27 anos apaixo
 
 ## Sobre Mim
 
-- 🚀 No início da jornada no Bacharelado em Engenharia de Software pela Universidade Cruzeiro do Sul, com expectativa de formatura em 2027.
+- 🚀 No início da jornada no Bacharelado em Sistemas da Informação pelo Centro Universitário UniFatecie, com expectativa de formatura em 2026.
 
-- 🎓 Atualmente, estou me graduando no curso superior de Tecnologia em Processos Gerenciais no Centro Universitário UNIFATECIE, com a previsão de me formar em agosto de 2024.
+- 🎓 Atualmente, estou me graduando no curso superior de Tecnologia em Processos Gerenciais no Centro Universitário UniFatecie, com a previsão de me formar em agosto de 2024.
 
 - 👨‍🎓 Bacharelado Interdisciplinar em Ciência e Tecnologia iniciado na Universidade Federal do Rio Grande do Norte em 2018. Tranquei o curso em 2020 devido a pandemia.
 
@@ -14,51 +14,6 @@ Olá! 👋 Eu sou Marcus Carvalho, um entusiasta de tecnologia de 27 anos apaixo
     <div> 
     <a href="https://www.marcuscarvalho.tech" target="_blank"><img src="https://img.shields.io/badge/Site Pessoal-000000?style=for-the-badge&logo=protondrive&logoColor=white"></a>
     </div>
-
-## Habilidades 🚀
-
-```java
-public class MarcusCarvalho {
-
-    public static void main(String[] args) {
-        System.out.println("Olá, eu sou Marcus Carvalho!");
-        System.out.println("Tenho 27 anos e sou apaixonado por programação.");
-
-        // Habilidades em linguagens de programação
-        String[] linguagens = {"Java","Kotlin", "C++", "Python", "SQL"};
-        String meEspecializando = "Java";
-
-        // Soft skills
-        String[] softSkills = {"Curioso", "Comunicativo", "Trabalho em Equipe", "Adoro desafios", "Amo aprender"};
-
-        // Objetivos futuros
-        String[] objetivos = {
-                "Explorar a fundo os meandros da Arquitetura de Software.",
-                "Quero me tornar um desenvolvedor cada vez melhor.",
-                "Aprofundar os conhecimentos em Design Patterns.",
-                "Desvendar os mistérios por trás da complexidade de algoritmos."
-        };
-
-        // Imprimir informações
-        System.out.println("\n## Habilidades em Programação ##");
-        System.out.print("Linguagens: ");
-        for (String linguagem : linguagens) {
-            System.out.print(linguagem + ", ");
-        }
-        System.out.println("\nEspecialização: " + especializacao);
-
-        System.out.println("\n## Soft Skills ##");
-        for (String skill : softSkills) {
-            System.out.println("- " + skill);
-        }
-
-        System.out.println("\n## Objetivos Futuros ##");
-        for (String objetivo : objetivos) {
-            System.out.println("- " + objetivo);
-        }
-    }
-}
-```
 
 ## Objetivos Futuros
 
