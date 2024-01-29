@@ -15,17 +15,6 @@ Olá! 👋 Eu sou Marcus Carvalho, um entusiasta de tecnologia de 27 anos apaixo
     <a href="https://www.marcuscarvalho.tech" target="_blank"><img src="https://img.shields.io/badge/Site Pessoal-000000?style=for-the-badge&logo=protondrive&logoColor=white"></a>
     </div>
 
-## Objetivos Futuros
-
-- 🌐 Explorar a fundo os meandros da Arquitetura de Software.
-- 📚 Aprofundar os conhecimentos em Design Patterns.
-- 🤖 Desvendar os mistérios por trás da complexidade de algoritmos.
-
-## Soft Skills 💬
-
-- 🤔 Curiosidade é minha aliada na busca por conhecimento.
-- 💬 Comunicativo e apaixonado por colaborar em projetos em equipe.
-
 ## GitHub Stats 📊
 ![Marcus Carvalho Card Stats](https://github-readme-stats.vercel.app/api?username=marcuscarvalhodev&show_icons=true&icon_color=fff&theme=dark&hide_title=True)
 
