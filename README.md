@@ -22,11 +22,11 @@ Olá! 👋 Eu sou Marcus Carvalho, um entusiasta de tecnologia de 28 anos apaixo
 
 ## Projetos 🛠️
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gatinhodev&repo=verifycat&theme=dark&show_icons=true&icon_color=fff&title_color=FFFFFF&text_color=FFF)](https://github.com/gatinhodev/verifycat)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gatinhodev&repo=verifycat&theme=tokyonight&show_icons=true&icon_color=fff&title_color=FFFFFF&text_color=FFF)](https://github.com/gatinhodev/verifycat)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gatinhodev&repo=conversorTemperatura&theme=dark&show_icons=true&icon_color=fff&title_color=FFFFFF&text_color=FFF)](https://github.com/gatinhodev/conversorTemperatura)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gatinhodev&repo=conversorTemperatura&theme=tokyonight&show_icons=true&icon_color=fff&title_color=FFFFFF&text_color=FFF)](https://github.com/gatinhodev/conversorTemperatura)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gatinhodev&repo=java_projects&theme=dark&show_icons=true&icon_color=fff&title_color=FFFFFF&text_color=FFF)](https://github.com/gatinhodev/java_projects)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gatinhodev&repo=java_projects&theme=tokyonight&show_icons=true&icon_color=fff&title_color=FFFFFF&text_color=FFF)](https://github.com/gatinhodev/java_projects)
 
 
 ## Vamos Conectar! 🌐
