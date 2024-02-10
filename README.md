@@ -16,9 +16,9 @@ Olá! 👋 Eu sou Marcus Carvalho, um entusiasta de tecnologia de 28 anos apaixo
     </div>
 
 ## GitHub Stats 📊
-![Marcus Carvalho Card Stats](https://github-readme-stats.vercel.app/api?username=gatinhodev&show_icons=true&icon_color=fff&theme=dark&hide_title=True)
+![Marcus Carvalho Card Stats](https://github-readme-stats.vercel.app/api?username=gatinhodev&show_icons=true&icon_color=fff&theme=tokyonight&hide_title=True)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gatinhodev&show_icons=true&icon_color=fff&theme=dark)](https://github.com/gatinhodev/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gatinhodev&theme=tokyonight)
 
 ## Projetos 🛠️
 
