@@ -18,9 +18,13 @@ Olá! 👋 Eu sou Marcus Carvalho, um entusiasta de tecnologia de 28 anos apaixo
 ## GitHub Stats 📊
 ![Marcus Carvalho Card Stats](https://github-readme-stats.vercel.app/api?username=gatinhodev&show_icons=true&icon_color=fff&theme=dark&hide_title=True)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gatinhodev&show_icons=true&icon_color=fff&theme=dark)](https://github.com/marcuscarvalhodev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gatinhodev&show_icons=true&icon_color=fff&theme=dark)](https://github.com/gatinhodev/github-readme-stats)
 
 ## Projetos 🛠️
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gatinhodev&repo=verifycat&theme=dark&show_icons=true&icon_color=fff&title_color=FFFFFF&text_color=FFF)](https://github.com/gatinhodev/verifycat)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gatinhodev&repo=conversorTemperatura&theme=dark&show_icons=true&icon_color=fff&title_color=FFFFFF&text_color=FFF)](https://github.com/gatinhodev/conversorTemperatura)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gatinhodev&repo=java_projects&theme=dark&show_icons=true&icon_color=fff&title_color=FFFFFF&text_color=FFF)](https://github.com/gatinhodev/java_projects)
 
