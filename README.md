@@ -1,19 +1,16 @@
 # Marcus Carvalho
 
-Olá! 👋 Eu sou Marcus Carvalho, um entusiasta de tecnologia de 28 anos apaixonado por explorar os limites da ciência e da programação. Atualmente, estou trilhando meu caminho no mundo da tecnologia e gostaria de compartilhar um pouco sobre minha jornada contigo.
+Olá, meu nome é Marcus Carvalho, um entusiasta de Golang e desenvolvedor back-end de 28 anos. Estou atualmente no terceiro semestre do curso de Sistemas da Informação e no último semestre de Processos Gerenciais.
 
-## Sobre Mim
+Como cofundador da Bichinhos da TI, desempenho o papel de Community Project Manager e Professor voluntário, dedicando-me ao ensino de linguagens de programação como Python e, especialmente, Go, além de Cálculo Diferencial e Integral. Sou o idealizador orgulhoso dos projetos Universidade Bichinhos, oferecendo aulas diárias gratuitas para nossa comunidade, e Bichinhos Go, concentrado na construção de uma framework em linguagem Go.
 
-- 🚀 Estudante do Bacharelado em Sistemas da Informação pelo Centro Universitário UniFatecie, com expectativa de formatura em 2026.
+- Experiência no desenvolvimento back-end em Golang;
+- Desenvolvimento de Micro Serviços e aplicações conteinerizadas com Docker e Kubernetes;
+- Criação de APIs no padrão REST e GRPC;
+- Conhecimentos em padrões de projeto e arquitetura de sistemas;
+- Experiência com banco de dados SQL, NoSQL, Mecanismos de cache key/value.
 
-- 🎓 Atualmente, estou me graduando no curso superior de Tecnologia em Processos Gerenciais no Centro Universitário UniFatecie, com a previsão de me formar em agosto de 2024.
-
-- 👨‍🎓 Bacharelado Interdisciplinar em Ciência e Tecnologia iniciado na Universidade Federal do Rio Grande do Norte em 2018. Tranquei o curso em 2020 devido à pandemia.
-
-- 🌐 Sou cofundador da comunidade Bichinhos da TI, onde também dou aulas de linguagem de programação. Além disso, sou produtor de conteúdo didático no meu site pessoal, baseando os conteúdos em meus resumos de estudo.
-    <div> 
-    <a href="https://www.marcuscarvalho.tech" target="_blank"><img src="https://img.shields.io/badge/Site Pessoal-000000?style=for-the-badge&logo=protondrive&logoColor=white"></a>
-    </div>
+Estou constantemente em busca de desafios e oportunidades no vasto universo da programação em Go.
 
 ## GitHub Stats 📊
 ![Marcus Carvalho Card Stats](https://github-readme-stats.vercel.app/api?username=gatinhodev&show_icons=true&icon_color=fff&theme=tokyonight&hide_title=True)
