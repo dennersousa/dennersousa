@@ -1,20 +1,11 @@
+
+![Meu banner](https://github.com/gatinhodev/gatinhodev/assets/135276762/9aad94ca-2780-41c9-9ce0-7f6245ae5b8d)
+
 # Marcus Carvalho
 
 Olá, meu nome é Marcus Carvalho, um entusiasta de Golang e desenvolvedor back-end de 28 anos. Estou atualmente no terceiro semestre do curso de Sistemas da Informação e no último semestre de Processos Gerenciais.
 
 Como cofundador da Bichinhos da TI, desempenho o papel de Community Project Manager e Professor voluntário, dedicando-me ao ensino de linguagens de programação como Python e, especialmente, Go, além de Cálculo Diferencial e Integral. Sou o idealizador orgulhoso dos projetos Universidade Bichinhos, oferecendo aulas diárias gratuitas para nossa comunidade, e Bichinhos Go, concentrado na construção de uma framework em linguagem Go.
-
-<div style="display: inline block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>   
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-    <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
-    <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-    <img align="center" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</div><br/>
 
 - Experiência no desenvolvimento back-end em Golang;
 - Desenvolvimento de Micro Serviços e aplicações conteinerizadas com Docker e Kubernetes;
