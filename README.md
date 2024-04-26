@@ -1,5 +1,5 @@
+![my banner](https://github.com/marcuscarvalhodev/gatinhodev/assets/135276762/4e2e5652-86ef-4c1f-89cd-e7cf2fcaca00)
 
-![Meu banner](https://github.com/gatinhodev/gatinhodev/assets/135276762/9aad94ca-2780-41c9-9ce0-7f6245ae5b8d)
 
 # Marcus Carvalho
 
