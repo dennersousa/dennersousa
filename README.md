@@ -3,9 +3,7 @@
 
 # Marcus Carvalho
 
-Olá, meu nome é Marcus Carvalho, um entusiasta de Golang e desenvolvedor back-end de 28 anos. Estou atualmente no terceiro semestre do curso de Sistemas da Informação e no último semestre de Processos Gerenciais.
-
-Como cofundador da Bichinhos da TI, desempenho o papel de Community Project Manager e Professor voluntário, dedicando-me ao ensino de linguagens de programação como Python e, especialmente, Go, além de Cálculo Diferencial e Integral. Sou o idealizador orgulhoso dos projetos Universidade Bichinhos, oferecendo aulas diárias gratuitas para nossa comunidade, e Bichinhos Go, concentrado na construção de uma framework em linguagem Go.
+Olá, meu nome é Marcus Carvalho, um entusiasta de Golang de 28 anos. Estou atualmente estou no último semestre de Processos Gerenciais.
 
 - Experiência no desenvolvimento back-end em Golang;
 - Desenvolvimento de Micro Serviços e aplicações conteinerizadas com Docker e Kubernetes;
