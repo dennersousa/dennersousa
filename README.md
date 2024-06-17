@@ -14,23 +14,24 @@ Olá, meu nome é Marcus Carvalho, um entusiasta de Golang de 28 anos. Estou atu
 Estou constantemente em busca de desafios e oportunidades no vasto universo da programação em Go.
 
 ## GitHub Stats 📊
-![Marcus Carvalho Card Stats](https://github-readme-stats.vercel.app/api?username=marcuscarvalhodev&show_icons=true&icon_color=fff&theme=tokyonight&hide_title=True)
+![Marcus Carvalho Card Stats](https://github-readme-stats.vercel.app/api?username=dennersousa&show_icons=true&icon_color=fff&theme=tokyonight&hide_title=True)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcuscarvalhodev&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennersousa&theme=tokyonight)
 
 ## Projetos 🛠️
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marcuscarvalhodev&repo=go-cli&theme=tokyonight&show_icons=true&icon_color=fff&title_color=FFFFFF&text_color=FFF)](https://github.com/gatinhodev/go-cli)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dennersousa&repo=go-cli&theme=tokyonight&show_icons=true&icon_color=fff&title_color=FFFFFF&text_color=FFF)](https://github.com/dennersousa/payroll-api)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marcuscarvalhodev&repo=verifycat&theme=tokyonight&show_icons=true&icon_color=fff&title_color=FFFFFF&text_color=FFF)](https://github.com/marcuscarvalhodev/verifycat)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dennersousa&repo=go-cli&theme=tokyonight&show_icons=true&icon_color=fff&title_color=FFFFFF&text_color=FFF)](https://github.com/dennersousa/go-cli)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dennersousa&repo=verifycat&theme=tokyonight&show_icons=true&icon_color=fff&title_color=FFFFFF&text_color=FFF)](https://github.com/dennersousa/verifycat)
  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marcuscarvalhodev&repo=conversorTemperatura&theme=tokyonight&show_icons=true&icon_color=fff&title_color=FFFFFF&text_color=FFF)](https://github.com/marcuscarvalhodev/conversorTemperatura)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dennersousa&repo=conversorTemperatura&theme=tokyonight&show_icons=true&icon_color=fff&title_color=FFFFFF&text_color=FFF)](https://github.com/dennersousa/conversorTemperatura)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marcuscarvalhodev&repo=java_projects&theme=tokyonight&show_icons=true&icon_color=fff&title_color=FFFFFF&text_color=FFF)](https://github.com/marcuscarvalhodev/java_projects)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dennersousa&repo=java_projects&theme=tokyonight&show_icons=true&icon_color=fff&title_color=FFFFFF&text_color=FFF)](https://github.com/dennersousa/java_projects)
 
 ## Vamos Conectar! 🌐
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcuscarvalhodev/)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](dev.marcus@outlook.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&hplogo=instagram&logoColor=white)](https://instagram.com/marcus_devbackend/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]((https://wa.me/+5584991596141/))
-[![Portfolio](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=site&logoColor=white)](https://www.gatinho.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennersousa/)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](marcus.rh@outlook.com.br)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&hplogo=instagram&logoColor=white)](https://instagram.com/_denner_sousa/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]((https://wa.me/+5522992410927/))
