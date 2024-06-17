@@ -3,7 +3,7 @@
 
 # Marcus Carvalho
 
-Olá, meu nome é Marcus Carvalho, um entusiasta de Golang de 28 anos. Estou atualmente estou no último semestre de Processos Gerenciais.
+Olá, meu nome é Marcus Carvalho, um entusiasta de Golang de 28 anos. Estou atualmente estou no último semestre de Processos Gerenciais e no primeiro de Gestão de Recursos Humanos.
 
 - Experiência no desenvolvimento back-end em Golang;
 - Desenvolvimento de Micro Serviços e aplicações conteinerizadas com Docker e Kubernetes;
