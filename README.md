@@ -20,7 +20,7 @@ Estou constantemente em busca de desafios e oportunidades no vasto universo da p
 
 ## Projetos 🛠️
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dennersousa&repo=go-cli&theme=tokyonight&show_icons=true&icon_color=fff&title_color=FFFFFF&text_color=FFF)](https://github.com/dennersousa/payroll-api)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dennersousa&repo=payroll-api&theme=tokyonight&show_icons=true&icon_color=fff&title_color=FFFFFF&text_color=FFF)]((https://github.com/dennersousa/payroll-api))
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dennersousa&repo=go-cli&theme=tokyonight&show_icons=true&icon_color=fff&title_color=FFFFFF&text_color=FFF)](https://github.com/dennersousa/go-cli)
 
